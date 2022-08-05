@@ -1,2 +1,3 @@
 ###git lesson one 
-## sanırım oluo
+## push edildi
+## pull edildi
